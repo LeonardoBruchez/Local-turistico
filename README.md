@@ -1,7 +1,7 @@
 # Desafio prático - Local Turístico
 
 
- <a href="https://leonardobruchez.github.io/Local-turistico/"> Abrir página
+ <a href="https://leonardobruchez.github.io/Local-turistico/">🔗 Acessar Projeto</a>
 
 <h1 align="center"> Introdução </h1>
 
